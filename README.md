@@ -1,3 +1,22 @@
+1. 相对稳定币：Anchored or Pegged (锚定或挂钩)-> $1.00
+    1. chainlink Price feed.
+    2. Set a function to exchange ETH&BTC -> $
+2. 币的稳定机制： Algorithmic (去中心化) mint 和 burn
+
+3. 抵押物： 采用外部抵押方式，以ETH&BTC等区块链加密货币为抵押物；
+
+------------------------
+
+1. What are our invariant/properties(不变量/属性)?
+    stateful/stateless fuzz test
+
+FUZZ TEST is test every situations by passing random data
+
+1. some proper oracle use ✅
+2. Write more tests 🫵
+3. Smart Contract preparation
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
